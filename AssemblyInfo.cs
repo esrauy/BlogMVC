@@ -2,34 +2,35 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Bir derlemeyle ilgili Genel Bilgiler aşağıdaki öznitelik kümesi kullanılarak 
-// denetlenir. Bir derlemeyle ilişkilendirilmiş bilgileri değiştirmek için bu
-// öznitelik değerlerini değiştirin.
-[assembly: AssemblyTitle("Blog_WebUI")]
+// Bir bütünleştirilmiş koda ilişkin Genel Bilgiler aşağıdaki öznitelikler kümesiyle
+// denetlenir. Bütünleştirilmiş kod ile ilişkili bilgileri değiştirmek için
+// bu öznitelik değerlerini değiştirin.
+[assembly: AssemblyTitle("Entites")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Blog_WebUI")]
+[assembly: AssemblyProduct("Entites")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// ComVisible özniteliğini false olarak ayarlarsanız COM bileşenleri bu 
-// derlemedeki türleri göremez. Bu derlemedeki bir türe COM'dan erişmeniz 
-// gerekiyorsa, o türde ComVisible özniteliğini true olarak ayarlayın.
+// ComVisible özniteliğinin false olarak ayarlanması bu bütünleştirilmiş koddaki türleri
+// COM bileşenleri için görünmez yapar. Bu bütünleştirilmiş koddaki bir türe
+// erişmeniz gerekirse ComVisible özniteliğini o türde true olarak ayarlayın.
 [assembly: ComVisible(false)]
 
-// Bu proje COM'a açılmışsa aşağıdaki GUID typelib'in ID'si içindir
-[assembly: Guid("ad2d3f9f-83b0-4adf-98c9-e731f2858246")]
+// Bu proje COM'un kullanımına sunulursa, aşağıdaki GUID tür kitaplığının kimliği içindir
+[assembly: Guid("daf25cd4-2913-423c-9a2e-01247ec60e22")]
 
-// Bir derlemenin sürüm bilgisi aşağıdaki dört değerden oluşur:
+// Bir derlemenin sürüm bilgileri aşağıdaki dört değerden oluşur:
 //
 //      Ana Sürüm
-//      Alt Sürüm 
+//      İkincil Sürüm 
 //      Yapı Numarası
 //      Düzeltme
 //
-// Tüm değerleri belirtebilirsiniz veya Düzeltme ve Yapı Numaralarına aşağıda 
-// gösterildiği gibi '*' ile varsayılan değer atayabilirsiniz:
+// Tüm değerleri belirtebilir veya varsayılan Derleme ve Düzeltme Numaralarını kullanmak için
+// aşağıda gösterildiği gibi '*' kullanabilirsiniz:
+// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

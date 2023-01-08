@@ -1,0 +1,12 @@
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Entites\bin\Debug\Entites.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Entites\bin\Debug\Entites.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Entites\obj\Debug\Entites.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Entites\obj\Debug\Entites.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Entites\obj\Debug\Entites.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Entites\obj\Debug\Entites.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Entites\bin\Debug\Entites.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Entites\bin\Debug\Entites.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Entites\obj\Debug\Entites.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Entites\obj\Debug\Entites.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Entites\obj\Debug\Entites.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Entites\obj\Debug\Entites.pdb
