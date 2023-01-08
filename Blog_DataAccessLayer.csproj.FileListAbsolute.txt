@@ -1,0 +1,36 @@
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_DataAccessLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_DataAccessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_DataAccessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Entites.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Entites.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_Core.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_Core.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_DataAccessLayer.dll.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_DataAccessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_DataAccessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_Core.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Entites.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Blog_Core.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\Entites.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.csproj.CopyComplete
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_DataAccessLayer\obj\Debug\Blog_DataAccessLayer.pdb
