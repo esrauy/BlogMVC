@@ -1,0 +1,46 @@
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_BusinessLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_BusinessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_BusinessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_DataAccessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Entites.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_DataAccessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_DataAccessLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Entites.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Common.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Common.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Core.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Core.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_BusinessLayer.dll.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_BusinessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Common.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Core.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_DataAccessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Entites.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Common.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_Core.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_DataAccessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Blog_DataAccessLayer.dll.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\Entites.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.csproj.CopyComplete
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_BusinessLayer\obj\Debug\Blog_BusinessLayer.pdb
