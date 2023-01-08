@@ -1,0 +1,83 @@
+﻿@using Entites.ViewModels
+@model RegisterViewModel
+@{
+    ViewBag.Title = "Kayıt Sayfası";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/login-register.css" rel="stylesheet" />
+<script src="~/js/bootstrap.min.js"></script>
+<script src="~/js/jquery.js"></script>
+
+
+<body>
+    @using (Html.BeginForm())
+    {
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div id="first">
+                        <div class="myform form ">
+                            <div class="logo mb-3">
+                                <div class="col-md-12 text-center">
+                                    <h1>KAYIT FORMU</h1>
+                                </div>
+
+                            </div>
+                            @Html.ValidationSummary(false)
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Name)
+                                @Html.TextBoxFor(model => model.Name, new { @class = "form-control", placeholder = "Adınızı Giriniz" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Surname)
+                                @Html.TextBoxFor(model => model.Surname, new { @class = "form-control", placeholder = "Soyadınızı Giriniz" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Email)
+                                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "E-posta Adresinizi Giriniz" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.UserName)
+                                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", placeholder = "Kullanıcı Adınızı Giriniz" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Password)
+                                @Html.TextBoxFor(model => model.Password, new { @class = "form-control", placeholder = "Şifrenizi Giriniz", type = "password" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.RePassword)
+                                @Html.TextBoxFor(model => model.RePassword, new { @class = "form-control", placeholder = "Şifrenizi Tekrar Giriniz", type = "password" })
+                            </div>
+                            <div class="form-group">
+                                <p class="text-center">By signing up you accept our <a href="#">Terms Of Use</a></p>
+                            </div>
+                            <div class="col-md-12 text-center ">
+                                <button type="submit" class=" btn btn-block mybtn btn-primary tx-tfm">KAYDOL</button>
+                            </div> <br />
+
+
+                            <div class="form-group">
+                                <p class="text-center">Don't have account? <a href="#" id="signup">Sign up here</a></p>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    }
+</body>
+
+<script>
+    //$(function ()
+    //{
+    //    $("footer").parent().hide();
+    //});
+
+   
+</script>

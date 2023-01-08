@@ -1,0 +1,189 @@
+﻿@using Entites
+@using Blog_WebUI.Models
+@{
+    BlogUser user = null;
+    //if (Session["login"] != null)
+    //{
+    //    user = Session["login"] as BlogUser;
+
+    //}
+
+    if (CurrentSession.User != null)
+    {
+        user = CurrentSession.User;
+
+    }
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Network Akademi Blog</title>
+
+    <!-- Bootstrap Core CSS -->
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Custom CSS -->
+    <link href="~/Content/shop-homepage.css" rel="stylesheet" />
+    <!-- jQuery -->
+    <script src="~/js/jquery.js"></script>
+
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/js/bootstrap.min.js"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/Home/Index">Blog Sayfam</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    @if (user != null)
+                    {
+                        <li class="dropdown">
+                            <a href="/Note/MyNote" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="glyphicon glyphicon-user"></span> Yönetim </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="/Note/Create"> <span class="glyphicon glyphicon-user"></span> Not Ekle </a>
+                                </li>
+                                <li role="separator" class="divider"></li>
+                                <li>
+                                    <a href="/Note/Index"> <span class="glyphicon glyphicon-edit"></span> Notlarım </a>
+                                </li>
+                                <li>
+                                    <a href="/Note/MyLiked"> <span class="glyphicon glyphicon-edit"></span> Beğendiklerim </a>
+                                </li>
+                                <li role="separator" class="divider"></li>
+                                @if (user.IsAdmin)
+                                {
+                                    <li>
+
+                                        @*<a href="/Category/Create"> <span class="glyphicon glyphicon-edit"></span> Kategori Ekle </a>*@
+                                        @Bootstrap.LinkMenu("/Category/Create/", "edit", "Kategori Ekle")
+                                    </li>
+                                    <li>
+                                        @*<a href="/Category/Index"> <span class="glyphicon glyphicon-edit"></span> Kategori Listele </a>*@
+                                        @Bootstrap.LinkMenu("/Category/Index/", "edit", "Kategori Listele")
+                                    </li>
+
+                                    <li role="separator" class="divider"></li>
+                                    <li> @Bootstrap.LinkMenu("/BlogUser/Index", "th-list", "Üyeler")</li>
+                                    <li role="separator" class="divider"></li>
+                                    <li>  @Bootstrap.LinkMenu("/BlogUser/Create", "th-user", "Üye Ekle")</li>
+
+
+                                }
+                            </ul>
+                        </li>
+
+
+                    }
+
+                    <li>
+                        <a href="@Url.Action("MostLiked","Home")"><span class="glyphicon glyphicon-heart"></span>En Beğenilenler</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index","Home") "><span class="glyphicon glyphicon-comment"></span> Son Yazılar</a>
+                    </li>
+
+                    <li>
+                        <a href="@Url.Action("Index","About")"><span class="glyphicon glyphicon-info-sign"></span>Hakkımızda</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (user == null)
+                    {
+                        <li>
+                            <a href="/Home/Login"><span class="glyphicon glyphicon-log-in"></span> Giriş</a>
+                        </li>
+                        <li>
+                            <a href="/Home/Register"><span class="glyphicon glyphicon-info-sign"></span> Üye Ol</a>
+                        </li>
+
+                    }
+                    else
+                    {
+                        <li class="dropdown">
+                            <a href="/Home/ShowProfile" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="glyphicon glyphicon-user"></span> @user.UserName </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="/Home/ShowProfile"> <span class="glyphicon glyphicon-user"></span> Profili Görüntüle </a>
+                                </li>
+                                <li role="separator" class="divider"></li>
+                                <li>
+                                    <a href="/Home/EditProfile"> <span class="glyphicon glyphicon-edit"></span> Profili Düzenle </a>
+                                </li>
+                                <li>
+                                    <a href="/Home/DeleteProfile" onclick="return confirm('Hesabınızı silmek istediğinize emin misiniz?')"> <span class="glyphicon glyphicon-trash"></span> Profili Sil </a>
+                                </li>
+                                <li role="separator" class="divider"></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/Home/Logout"><span class="glyphicon glyphicon-log-out"></span> Çıkış</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    @RenderBody()
+
+    @*
+        Footer bölümü ayrıca bir PartialView olarak tanımladım.Footer bölümü her sayfada görünmeyecegi için istediğim sayfalarda çıkmasını
+        sağlayacağım.Layout içerisinde yerleşmesini istediğm bölümüe aşagıdaki RenderSection ile başlayan  kodu yazıyorum
+        -> @section footer{
+         @Html.Partial("_PartialFooter")
+         }
+
+    *@
+
+    @RenderSection("footer", required: false)
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+

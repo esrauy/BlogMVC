@@ -1,0 +1,202 @@
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_WebUI.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_WebUI.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_WebUI.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csc.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csc.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csc.rsp
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csi.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csi.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csi.rsp
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Console.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\vbc.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\vbc.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\vbc.rsp
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Helpers.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Mvc.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Razor.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Razor.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Helpers.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Mvc.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Razor.resources.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_BusinessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Entites.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_DataAccessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_BusinessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_BusinessLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Entites.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_DataAccessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_DataAccessLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\FakeData.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\FakeData.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Common.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Common.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Core.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Core.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.Web.Helpers.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.Data.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.WebData.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.Data.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.WebData.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_WebUI.dll.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_WebUI.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_WebUI.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csc.exe
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csc.exe.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csc.rsp
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csi.exe
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csi.exe.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\csi.rsp
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Console.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\vbc.exe
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\vbc.exe.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\vbc.rsp
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Core.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Entites.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.Web.Helpers.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Helpers.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Mvc.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Razor.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.Data.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.WebData.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_DataAccessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Common.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\FakeData.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_BusinessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_BusinessLayer.dll.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Core.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Entites.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.Data.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\WebMatrix.WebData.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Razor.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Helpers.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\System.Web.Mvc.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_DataAccessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_DataAccessLayer.dll.config
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\Blog_Common.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\FakeData.pdb
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Razor.resources.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.csproj.CopyComplete
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.dll
+C:\Users\esrau\OneDrive\Masaüstü\Projeler\BlogMVC_Projesi\Blog_WebUI\obj\Debug\Blog_WebUI.pdb
